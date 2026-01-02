@@ -28,3 +28,6 @@ notebooks/.env.development.local
 notebooks/.env.test.local
 notebooks/.env.production.local
 notebooks/.DS_Store
+notebooks/03_attention/ipynb_checkpoints
+notebooks/03_attention/2.simple_self-attention/ipynb_checkpoints
+notebooks/03_attention/3.multi-head_self-attention/ipynb_checkpoints
